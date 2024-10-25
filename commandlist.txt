@@ -1,0 +1,251 @@
+    1  sudo -jaya
+    2  su - jaya
+    3  less myfile.txt
+    4  more myfile.txt
+    5  mkdir mydirectory
+    6  ls
+    7  ls -l
+    8  mv myfile.txt mydirectory
+    9  cd mydirectory
+   10  ls
+   11  cd ~
+   12  cd mydirectory
+   13  less /etc/passwd
+   14  ls
+   15  mv myfile.txt mycronjob
+   16  perl --version
+   17  vim file3
+   18  vi file3
+   19  mv file3 print_name.sh
+   20  print_name
+   21  vi print_name.sh 
+   22  print_name
+   23  print_name.sh
+   24  vi print_name.sh 
+   25  ./print_name.sh
+   26  chmod +x print_name.sh
+   27  ls -l
+   28  ./print_name.sh
+   29  ./print_name
+   30  cat print_name.sh
+   31  cd ~
+   32  cd mydirectory
+   33  ls -ltr
+   34  ls -l
+   35  vi print_name.sh
+   36  echo '$4.50'
+   37  wsl --list --verbose
+   38  who
+   39  sudo adduser -m jaya3
+   40  sudo - jaya
+   41  history
+   42  crontab -l
+   43  crontab -e
+   44  touch myfile.txt
+   45  ls
+   46  ls -la
+   47  cd snap
+   48  ls
+   49  cd..
+   50  sudo -i
+   51  vi print_name.sh
+   52  chmode +x print_name.sh
+   53  chmod +x print_name.sh
+   54  print_name.sh
+   55  ./print_name.sh
+   56  vi print_name.sh
+   57  ./print_name.sh
+   58  vi print_name.sh
+   59  ./print_name.sh
+   60  vi print_name.sh
+   61  ./print_name.sh
+   62  vi print_name.sh
+   63  man date
+   64  vi print_name.sh
+   65  man date
+   66  vi print_name.sh
+   67  ./print_name.sh
+   68  man date
+   69  vi print_name.sh
+   70  ./print_name.sh
+   71  vi print_name.sh
+   72  ./print_name.sh
+   73  cat print_name.sh
+   74  file *
+   75  wsl --update
+   76  sudo apt update
+   77  sudo apt upgrade
+   78  sudo apt install xfce4
+   79  sudo apt install xfce4-goodies
+   80  history | grep 'vim'
+   81  vi print_name.sh
+   82  grep 'my comment' print_name.sh
+   83  vi print_name.sh
+   84  grep 'my comment' print_name.sh
+   85  cd jaya
+   86  ls
+   87  cd mydirectory
+   88  ls
+   89  cd..
+   90  cd\
+   91  nano print_name.sh
+   92  sudo apt install plocate
+   93  which locate
+   94  sudo updatedb
+   95  locate print_name.txt
+   96  eval "$(ssh-agent-s)"
+   97  cd Linuxtestscripts
+   98  eval "$(ssh-agent-s)"
+   99  cd ..
+  100  eval "$(ssh-agent-s)"
+  101  ssh-keygen
+  102  sudo ls -la /root/.ssh
+  103  sudo cat /root/.ssh/id_rsa
+  104  sudo cat /root/id_rsa.pub
+  105  sudo cat /root/.ssh/id_rsa.pub
+  106  eval "$(ssh-agent-s)"
+  107  cd /
+  108  ls
+  109  eval "$(ssh-agent-s)"
+  110  pws
+  111  pwd
+  112  ssh-keygen -t ed25519 -C "jayasree.sarma@yahoo.com"
+  113  cat /root/.ssh/id_ed25519.pub
+  114  ls /root/.ssh
+  115  eval "$(ssh-agent -s)"
+  116  ssh - T jayasree.sarma@yahoo.com
+  117  ssh -T jayasree.sarma@yahoo.com
+  118  ssh-add /root/.ssh/id_rsa
+  119  ssh -T git@github.com
+  120  pw
+  121  pwd
+  122  cd /home
+  123  ls
+  124  cd jaya
+  125  ls
+  126  cd mydirectory
+  127  ls
+  128  cd git_practice
+  129  ls
+  130  la
+  131  cd Linuxtestscripts
+  132  ls
+  133  git push 
+  134  git status
+  135  sudo vim linuxscript.sh
+  136  git status
+  137  git push
+  138  ssh -T git@github.com
+  139  eval "$(ssh-agent -s)"
+  140  ssh-add /root/.ssh/id_ed25519
+  141  git push
+  142  ls
+  143  cat /root/.ssh/id_ed25519.pub
+  144  git remote set-url orgin git@github.com:jaya/linux/admin.git
+  145  git remote set-url orgin git@github.com:jaya/Linuxtestscripts.git
+  146  git remote set-url origin git@github.com:jaya/Linuxtestscripts.git
+  147  git push
+  148  git add .
+  149  git commit -m "test commit"
+  150  vim linuxscript.sh
+  151  git status
+  152  vim linuxscript.sh
+  153  git status
+  154  git add .
+  155  git commit -m "hello"
+  156  git push
+  157  git remote set-url origin git@github.com:jayasarma/Linuxtestscripts.git
+  158  git push
+  159  vim linuxscript.sh
+  160  git add .
+  161  git commit -m "hello hello"
+  162  sudo git push
+  163  git push
+  164  git config --global user.name "jayasarma"
+  165  git config --global user.email "jayasree.sarma@yahoo.com"
+  166  git config --list
+  167  git config --global init.defaultBranch main
+  168  git config --list
+  169  git log
+  170  git tag -a v1.0 -m "changes made before oct 23rd"
+  171  git ta
+  172  git tag
+  173  git tag -1 "v1.*"
+  174  git push origin --tags
+  175  git log
+  176  git reset --hard 45673a3
+  177  git show v1.0
+  178  vim portfolio.txt
+  179  git status'
+  180  git status
+  181  vim Readme
+  182  vim README.MD
+  183  vim README.md
+  184  git status
+  185  git add .
+  186  git push
+  187  git add portfolio.txt
+  188  git push
+  189  git commit -m "changed 2 files"
+  190  git push
+  191  git status
+  192  git show v1.0
+  193  git commit -m "changed 2 files"
+  194  cd ..
+  195  git clone https://github.com/Jayasarma/linuxadmin2.git
+  196  cd pwd
+  197  pwd
+  198  git status
+  199  ls
+  200  cd linuxadmin2
+  201  ls
+  202  git branch
+  203  git branch dev-js
+  204  git branch
+  205  git switch dev-js
+  206  git branch
+  207  git branch -r
+  208  ls
+  209  ls -la
+  210  git branch
+  211  vim dev-js.txt
+  212  git status
+  213  git add .
+  214  git commit -m "added new file onto dev-js branch"
+  215  git push
+  216  git remote -v
+  217  git push --set-upstram origin dev-js
+  218  eval "$(ssh-agent-s)"
+  219  eval "$(ssh-agent -s)"
+  220  ssh-add /root/.ssh/id_ed25519
+  221  git remote set-url origin git@github.com:jayasarma/linuxadmin2.git
+  222  git push
+  223  git push --set-upstram origin dev-js
+  224  git push --set-upstream origin dev-js
+  225  ssh-add /root/.ssh/id_ed25519
+  226  git push --set-upstream origin dev-js
+  227  vim myconfiguration.conf
+  228  git status
+  229  git add .
+  230  git commit -m "added myconfiguration.conf file"
+  231  git pus
+  232  git push
+  233  git switch main
+  234  git pull origin main
+  235  git branch
+  236  git merge dev-js
+  237  git status
+  238  git push
+  239  git switch dev-js
+  240  vim dev-js.txt
+  241  vim myconfiguration.conf
+  242  git add .
+  243  git commit -m "making changes again"
+  244  git push
+  245  git switch main
+  246  git status
+  247  git pull
+  248  git log main..dev-js
+  249  git merge dev-js
+  250  git push
+  251  history > commandlist.txt
