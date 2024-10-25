@@ -1,2 +1,4 @@
 echo "hi how are you?"
-dev-js making changes:w
+dev-js making changes:iw
+
+echo "makeing second change"
